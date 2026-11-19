@@ -1,0 +1,2 @@
+# LuaRocks module paths
+eval "$(luarocks path)"

@@ -1,0 +1,3 @@
+# Keep the OS window title fixed as tabs and programs change.
+os_window_title Kitty Terminal
+launch
